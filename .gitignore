@@ -31,3 +31,8 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+
+/node_modules
+composer.lock
+package-lock.json
+/db/app.db
